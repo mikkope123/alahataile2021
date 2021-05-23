@@ -1,0 +1,184 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {finnish}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Johdanto}{vii}{chapter*.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Oppaasta}{viii}{section*.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\IeC {\"A}l\IeC {\"a} H\IeC {\"a}t\IeC {\"a}ilen historia}{x}{section*.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Pallo hukassa}{xii}{section*.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Stadissa}{1}{chapter.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Kaupunki nimelt\IeC {\"a} Helsinki}{2}{section*.12}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{J\IeC {\"o}r\IeC {\"o}ill\IeC {\"a} j\IeC {\"a}rsitt\IeC {\"a}v\IeC {\"a}\IeC {\"a}}{6}{section*.22}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Ravintola- ja baariopas}{12}{section*.52}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Quo vadis?}{36}{section*.176}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Kun Stadi kyll\IeC {\"a}stytt\IeC {\"a}\IeC {\"a}\dots }{41}{section*.185}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Frank}{44}{section*.193}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Opintiell\IeC {\"a}}{45}{chapter.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Opintotuki ja turva}{47}{section*.195}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Miten suoritan tutkintoni?}{50}{section*.196}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Vanhaa tutkintosanastoa uusille}{53}{section*.199}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Uutta tutkintosanastoa vanhoille}{54}{section*.201}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Yliopiston kurssiarvostelu\dots }{55}{section*.203}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Opiskelutekniikkaa}{56}{section*.204}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Mik\IeC {\"a} sinusta tulee isona?}{59}{section*.209}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Tiedekunnan rakenne}{62}{section*.217}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Matemaattiset tieteet}{65}{chapter.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Mik\IeC {\"a} matemaattisissa tieteiss\IeC {\"a} vieh\IeC {\"a}tt\IeC {\"a}\IeC {\"a}?}{72}{section*.220}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Matemaatikon paikka ty\IeC {\"o}el\IeC {\"a}m\IeC {\"a}ss\IeC {\"a}}{74}{section*.223}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Matemaatikon sanasto}{77}{section*.227}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{T\IeC {\"a}rkeit\IeC {\"a} kursseja}{80}{section*.239}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Tilastotiede}{88}{section*.255}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Tietojenk\IeC {\"a}sittelytiede}{93}{chapter.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Kiehtova TKT}{96}{section*.269}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Tietojen\-k\IeC {\"a}sittely\-tieteen opinto-opas}{101}{section*.279}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{TKT:n kursseja}{109}{section*.298}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Kemia}{113}{chapter.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Chemicum}{115}{section*.313}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Kemian kursseja}{117}{section*.315}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Kemia sivutieteenalana}{120}{section*.336}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Fysikaaliset tieteet}{121}{chapter.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Physicum}{128}{section*.337}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Vinkkicocktail aloittelevalle fyysikolle}{130}{section*.338}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Tutkijapiiri}{132}{section*.340}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Fysiikan k\IeC {\"a}yt\IeC {\"a}nteet}{133}{section*.342}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Kursseja, kursseja, kursseja}{136}{section*.348}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{T\IeC {\"a}htitiede}{149}{section*.381}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Meteorologia}{155}{section*.404}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Geofysiikka}{161}{section*.415}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Geotieteet}{165}{chapter.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Geotieteiden opiskelu}{168}{section*.427}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Geotieteiden kursseja}{170}{section*.435}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Maantiede}{175}{chapter.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Maantiede tieteenalana}{178}{section*.448}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Maantieteen kursseja}{181}{section*.454}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}Opettajankoulutus}{183}{chapter.9}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Minustako opettaja?}{186}{section*.469}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Aineenopettajan kursseja}{191}{section*.482}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {10}Kaikkea muuta}{193}{chapter.10}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Kieliopinnot}{194}{section*.494}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Yleist\IeC {\"a} h\IeC {\"o}p\IeC {\"o}tyst\IeC {\"a} sivutieteenaloista}{198}{section*.503}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Joopa JOO}{200}{section*.507}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {11}Opiskelijael\IeC {\"a}m\IeC {\"a}\IeC {\"a}}{201}{chapter.11}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Opiskelijaj\IeC {\"a}rjest\IeC {\"o}t}{202}{section*.509}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Ainej\IeC {\"a}rjest\IeC {\"o}el\IeC {\"a}m\IeC {\"a}\IeC {\"a}}{203}{section*.513}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{HYY}{204}{section*.515}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Ammattiliitot}{207}{section*.522}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Ty\IeC {\"o}el\IeC {\"a}m\IeC {\"a} -- tulevaisuuden utopiaa?}{209}{section*.526}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Limes}{212}{section*.530}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{LiXXKe}{215}{section*.541}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Matrix}{218}{section*.551}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Resonanssi}{219}{section*.553}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Moodi}{220}{section*.555}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Helsingin yliopiston kemistit (HYK)}{221}{section*.556}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Geysir}{222}{section*.558}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Maantieteen Opiskelijat (MaO)}{223}{section*.560}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{TKO-\IeC {\"a}ly}{224}{section*.562}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{HAO}{225}{section*.564}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Spektrum}{226}{section*.566}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Meridiaani}{228}{section*.569}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Synop}{229}{section*.571}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Vasara}{230}{section*.573}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Matlu}{231}{section*.575}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Osakunnat}{232}{section*.578}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {12}Verkossa}{233}{chapter.12}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Tietotekniikkapalvelut}{234}{section*.583}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Office365}{236}{section*.591}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Tulostaminen}{237}{section*.595}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Opiskelijan tietoj\IeC {\"a}rjestelm\IeC {\"a}t}{238}{section*.597}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{IRC}{240}{section*.608}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Jodel}{241}{section*.610}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{IRC ja Jodel -- jotain suosittuja lyhenteit\IeC {\"a}}{242}{section*.611}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Niksi-Pirkka tietokoneneroille}{243}{section*.613}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Yliopiston hierarkia}{245}{section*.616}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {13}Opiskelijan sanasto}{247}{chapter.13}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Limeksen j\IeC {\"a}seneksi liittyminen}{262}{section*.619}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Syksyll\IeC {\"a} tapahtuu!}{263}{section*.620}% 
